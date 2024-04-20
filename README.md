@@ -21,5 +21,9 @@ The application uses an SQLite database to store vector representations of text 
 - This project uses OpenAI's LLAMA.
 - TensorFlow Hub is used for sentence embedding and similarity computation.
 
+## Photo
+
+![ChatWithPDF](https://github.com/Sonia312/Chat-With-PDF-Document/assets/101570119/646cce20-bc79-47f5-b980-84b6038a22f0)
+
 ## Video Link
 https://drive.google.com/file/d/1dqDAHW-cO_qd3VhCMCSAcekSYhwvFWDI/view?usp=sharing
